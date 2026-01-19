@@ -1,7 +1,3 @@
-Got it, Agam 🙂
-Here’s the same README **rewritten in a cleaner, more polished style**, without changing the meaning or tech details.
-
----
 
 # 📱 React Native Profile Manager (Multi-Step Form)
 
